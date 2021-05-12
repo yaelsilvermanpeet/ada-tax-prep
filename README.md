@@ -1,1 +1,3 @@
-# ada_tax_prep
+# Ada Tax Preparation
+
+A repo to support an activity on branching.
